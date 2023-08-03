@@ -19,3 +19,6 @@ When the user chooses the "Cart" option from the sidebar, the application displa
 #
 Finally, selecting the "Sign Out" action takes the user back to the Login Page.
 #
+
+https://github.com/suyashkolhe25/OnlineShoppingApp/assets/82031106/cb57b96e-ee75-4578-b70d-0b2bc52f9a71
+
