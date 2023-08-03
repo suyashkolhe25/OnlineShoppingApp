@@ -18,7 +18,8 @@ By selecting the "Account Info" option from the sidebar drawer menu, the user is
 When the user chooses the "Cart" option from the sidebar, the application displays the items added to the cart. Clicking on the "Place Order" button triggers a simple toast message that says, "Your order has been successfully placed."
 #
 Finally, selecting the "Sign Out" action takes the user back to the Login Page.
-#
+
+# Video Demonstration
 
 https://github.com/suyashkolhe25/OnlineShoppingApp/assets/82031106/cb57b96e-ee75-4578-b70d-0b2bc52f9a71
 
